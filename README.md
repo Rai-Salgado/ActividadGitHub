@@ -33,7 +33,6 @@ A continuación, se detallan los principales lenguajes utilizados durante este p
 - sql
 - css
 - javascript
-- no se cual otro xd
 
 ---
 
